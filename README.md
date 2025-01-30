@@ -25,9 +25,11 @@ We’re just getting started, and we need your contributions to grow this ecosys
 🔹 **Join our community** in meetups & discussions  
 
 ### **🌐 Connect With Us**  
-- **Website:** [Coming Soon]  
+- **Website:** [Coming Soon]
+- **Telegram Group:** [Join Here](https://t.me/decaffeth)
+- **Telegram Group:** [Join Here](https://t.me/+ZLX3NJEAHZYyNjc0)  
 - **Twitter/X:** [@DeCaffeth](https://x.com/decaffeth)  
 - **Instagram:** [@DeCaffeth](https://www.instagram.com/decaffeth)  
-- **Telegram Group:** [Join Here](https://t.me/+ZLX3NJEAHZYyNjc0)  
+
 
 Let’s **build, learn, and grow together** in the Web3 space! 🚀💎  
