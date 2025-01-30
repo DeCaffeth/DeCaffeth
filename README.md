@@ -20,14 +20,14 @@ We aim to **empower developers** by providing:
 ### **🚀 Get Involved**  
 We’re just getting started, and we need your contributions to grow this ecosystem!  
 
-🔹 **Follow our GitHub** for upcoming projects  
+🔹 **Follow our GitHub** for upcoming projects
 🔹 **Contribute** to open-source initiatives  
 🔹 **Join our community** in meetups & discussions  
 
 ### **🌐 Connect With Us**  
 - **Website:** [Coming Soon]
-- **Telegram Group:** [Join Here](https://t.me/decaffeth)
-- **Telegram Group:** [Join Here](https://t.me/+ZLX3NJEAHZYyNjc0)  
+- **Telegram Group:** [@DeCaffeth](https://t.me/decaffeth)
+- **Telegram Group:** [Join Here](https://t.me/+ZLX3NJEAHZYyNjc0)
 - **Twitter/X:** [@DeCaffeth](https://x.com/decaffeth)  
 - **Instagram:** [@DeCaffeth](https://www.instagram.com/decaffeth)  
 
