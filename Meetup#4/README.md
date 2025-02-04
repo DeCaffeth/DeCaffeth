@@ -6,8 +6,8 @@
 ## 🎯 Overview  
 DeCaffeth Meetup #4 brought together Iran’s **Ethereum developers, security researchers, and community builders** to explore key topics shaping the **Ethereum ecosystem** and beyond. This event served as a platform to **upskill developers**, discuss **Web3 security trends**, and highlight the role of **global Ethereum events** in fostering local innovation.  
 
-![Meetup Poster](./meetup4_poster.jpg)
-![Meetup Cover](./meetup4_cover.jpg)
+![Meetup Poster](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_poster.jpg)
+![Meetup Cover](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_cover.jpg)
 
 ## 🔹 Key Topics & Discussions
 
@@ -35,10 +35,10 @@ DeCaffeth Meetup #4 brought together Iran’s **Ethereum developers, security re
 ## 📸 Event Media & Resources  
 📅 **Event Page**  
 🔗 Check out the meetup details on Luma: [DeCaff.eth Meetup #4](https://lu.ma/snpw3yf4)  
-📑 **[Presentation Slides](./meetup4_slides.pdf)**  
+📑 **[Presentation Slides](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_slides.pdf)**  
 📷 **Event Photos**  
-- ![Photo 1](meetup4_photo1.jpg)
-- ![Photo 2](meetup4_photo2.jpg)
+- ![Photo 1](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_photo1.jpg)
+- ![Photo 2](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_photo2.jpg)
 🎥 **Meetup Reel**
 🔗 Watch the highlights on Instagram: [Instagram Reel](https://www.instagram.com/reel/DFQJFHSAYGj/?igsh=ZXl3MDk2bWM5Y3Zp)  
 
