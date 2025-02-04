@@ -37,7 +37,7 @@ DeCaffeth Meetup #4 brought together Iran’s **Ethereum developers, security re
 ## 📸 Event Media & Resources  
 📅 **Event Page**  
 🔗 Check out the meetup details on Luma: [DeCaff.eth Meetup #4](https://lu.ma/snpw3yf4)  
-📑 **[Presentation Slides](https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%234/meetup%234_slides.pdf)**  
+📑 **[Presentation Slides](https://docs.google.com/presentation/d/10-0VynsS_qAztOxxtUuvVVCpHFbBg56usKBR8kgkquM/edit?usp=sharing)**  
 🎥 **Meetup Reel**
 🔗 Watch the highlights on Instagram: [Instagram Reel](https://www.instagram.com/reel/DFQJFHSAYGj/?igsh=ZXl3MDk2bWM5Y3Zp)  
 📷 **Event Photos**  
