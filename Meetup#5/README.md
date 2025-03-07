@@ -9,7 +9,7 @@ DeCaffeth Meetup #5 marked Iran’s **first-ever TON-focused gathering**, bringi
 We discussed **why TON stands out**, its **integration with Telegram**, and how **global initiatives like TON Nest** can empower the **Iranian developer community**.  
 
 <p align="center">
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_poster.jpg" alt="Meetup Poster" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_poster.png" alt="Meetup Poster" width="300"/>
   <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_cover.jpg" alt="Meetup Cover" width="300"/>
 </p>  
 
