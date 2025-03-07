@@ -27,16 +27,15 @@ The **DeCaffeth Genesis Meetup** marked the beginning of a vibrant Web3 and bloc
 - **Deep dives into real-world blockchain challenges**  
 
 ## 📸 Event Media & Resources  
-📅 **Event Page**  
-🔗 Check out the meetup details on Luma: [DeCaffeth Genesis Meetup](https://lu.ma/)  
+📅 **Event Page**
+🔗 Check out the meetup details on Luma: [DeCaffeth Genesis Meetup](https://lu.ma/09vmizag)
 
 🎥 **Meetup Highlights**  
-🔗 Watch the recap on Instagram: [Instagram Reel](https://www.instagram.com/decaffeth)  
+🔗 Watch the recap on Instagram: [Instagram Reel](https://www.instagram.com/reel/DAGhnaEgXc5/?igsh=MTVibnFoNGlqZnBkbA==)  
 
-📷 **Event Photos**  
+📷 **Event Photo**  
 <p align="center">
   <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup#1_photo1.jpg" alt="Photo 1" width="300"/>
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup#1_photo2.jpg" alt="Photo 2" width="300"/>
 </p>  
 
 ## 💬 Join the DeCaffeth Community!  
