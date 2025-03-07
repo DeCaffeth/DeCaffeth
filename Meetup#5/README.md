@@ -58,7 +58,7 @@ We discussed **why TON stands out**, its **integration with Telegram**, and how 
 ## 🎁 TON Merch & Grant Resources  
 At the event, attendees received **custom TON notebooks** with QR codes linking to major grant opportunities in the TON ecosystem, including:  
 - [TON Foundation Grants](https://ton.org/grants)  
-- [TON Nest Program](https://eco.ton.org/ton/opportunities/nest)  
+- [TON Nest Program](https://eco.ton.org/en/opportunities/ton-nest)  
 - [STON.fi Grants & Bounties](https://ston.fi/grant-program)  
 
 📷 **Merch Photos**  
