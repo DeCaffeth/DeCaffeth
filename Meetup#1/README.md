@@ -8,8 +8,8 @@
 The **DeCaffeth Genesis Meetup** marked the beginning of a vibrant Web3 and blockchain community in Iran. Bringing together **developers, researchers, and blockchain enthusiasts**, this first-ever gathering set the stage for **open discussions, networking, and unconference sessions**. Whether beginners or seasoned builders, attendees had the opportunity to **connect, share ideas, and dive into the Ethereum and Web3 ecosystem**.  
 
 <p align="center">
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup#1_poster.jpg" alt="Meetup Poster" width="300"/>
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup#1_cover.jpg" alt="Meetup Cover" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup%231_poster.jpg" alt="Meetup Poster" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup%231_cover.jpg" alt="Meetup Cover" width="300"/>
 </p>  
 
 ## 🔹 Key Highlights  
