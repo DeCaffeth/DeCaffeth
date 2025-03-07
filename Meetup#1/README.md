@@ -35,7 +35,7 @@ The **DeCaffeth Genesis Meetup** marked the beginning of a vibrant Web3 and bloc
 
 📷 **Event Photo**  
 <p align="center">
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup#1_photo1.jpg" alt="Photo 1" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%231/meetup%231_photo1.jpg" alt="Photo 1" width="300"/>
 </p>  
 
 ## 💬 Join the DeCaffeth Community!  
