@@ -9,8 +9,8 @@ DeCaffeth Meetup #5 marked Iran’s **first-ever TON-focused gathering**, bringi
 We discussed **why TON stands out**, its **integration with Telegram**, and how **global initiatives like TON Nest** can empower the **Iranian developer community**.  
 
 <p align="center">
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup#5_poster.jpg" alt="Meetup Poster" width="300"/>
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup#5_cover.jpg" alt="Meetup Cover" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_poster.jpg" alt="Meetup Poster" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_cover.jpg" alt="Meetup Cover" width="300"/>
 </p>  
 
 ## 🔹 Key Topics & Discussions  
@@ -63,9 +63,9 @@ At the event, attendees received **custom TON notebooks** with QR codes linking 
 
 📷 **Merch Photos**  
 <p align="center">
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/merch1.jpg" alt="TON Notebook" width="300"/>
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/merch2.jpg" alt="TON Logo" width="300"/>
-  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/merch3.jpg" alt="QR Code Grants" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_merch1.jpg" alt="TON Notebook" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_merch2.jpg" alt="TON Logo" width="300"/>
+  <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%235/meetup%235_merch3.jpg" alt="QR Code Grants" width="300"/>
 </p>  
 
 ## 💬 Join the DeCaffeth Community!  
