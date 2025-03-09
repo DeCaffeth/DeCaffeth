@@ -9,6 +9,7 @@ DeCaffeth Meetup #6 explored the **intersection of AI and Web3**, bringing toget
 
 This **hands-on workshop** featured **live coding, interactive challenges, and discussions** on how **AI is transforming blockchain ecosystems**. Attendees **built, learned, and connected** with like-minded innovators.  
 
+<p align="center"> <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%236/meetup%236_poster.jpg" alt="Meetup Poster" width="300"/> <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%236/meetup%236_cover.jpg" alt="Meetup Cover" width="300"/> </p>
 ---
 
 ## 🔹 Key Topics & Discussions  
