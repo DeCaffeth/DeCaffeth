@@ -11,8 +11,8 @@ Ethereum is evolving, and **Restaking** is at the forefront of this transformati
 
 This meetup brought together **blockchain researchers, developers, and Ethereum enthusiasts** to discuss the significance of Restaking, EigenLayer, and its impact on Ethereum’s ecosystem.
 
-<p align="center"> <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_poster.jpg" alt="Meetup Poster" width="300"/> 
-<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_cover.png" alt="Meetup Cover" width="300"/> </p>
+<p align="center"> <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_poster.png" alt="Meetup Poster" width="300"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_cover.jpg" alt="Meetup Cover" width="300"/> </p>
 ---
 
 ## 🔹 Key Topics & Discussions  
@@ -48,6 +48,7 @@ This meetup brought together **blockchain researchers, developers, and Ethereum 
 <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo2.jpg" alt="Photo 2" width="300"/> 
 <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo3.jpg" alt="Photo 3" width="300"/> 
 </p>
+
 ---
 
 ## 🔍 Join the DeCaffeth Community!  
@@ -56,7 +57,7 @@ Stay connected with **DeCaffeth Web3 builders**:
 - 💬 **[Telegram Group](https://t.me/+ZLX3NJEAHZYyNjc0)**  
 - 📱 **[Telegram](https://t.me/decaffeth)**  
 - 📱 **[Instagram](https://www.instagram.com/decaffeth)**  
-- 🔧 **[Twitter/X](https://x.com/decaffeth)**  
+- 🐦 **[Twitter/X](https://x.com/decaffeth)**  
 - 🏢 **[GitHub](https://github.com/decaffeth)**  
 
 ---
