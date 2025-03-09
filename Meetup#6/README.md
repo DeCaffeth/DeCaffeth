@@ -13,35 +13,35 @@ This **hands-on workshop** featured **live coding, interactive challenges, and d
 
 ## 🔹 Key Topics & Discussions  
 
-### 1⃣ **AI in Web3: Real-World Use Cases & Applications**  
+### 1. **AI in Web3: Real-World Use Cases & Applications**  
 **Speaker:** *Hossein Boustani*  
 
 - How **AI is enhancing Web3 infrastructure**  
 - Practical applications of **machine learning in blockchain**  
 - The rise of **decentralized AI models**  
 
-### 2⃣ **AI Agents & Blockchain: Smarter Decentralized Systems**  
+### 2. **AI Agents & Blockchain: Smarter Decentralized Systems**  
 **Speaker:** *Hossein Boustani*  
 
 - What are **AI agents**, and how do they interact with **smart contracts**?  
 - AI's role in **DAO governance & automated decision-making**  
 - The future of **decentralized intelligence**  
 
-### 3⃣ **Case Study: Autonomous Vehicles and Blockchain**  
+### 3. **Case Study: Autonomous Vehicles and Blockchain**  
 **Speaker:** *Mohammad Amin Asadi*  
 
 - Exploring **blockchain’s role in autonomous systems**  
 - How **AI-powered vehicles can integrate with decentralized networks**  
 - Future challenges & opportunities  
 
-### 4⃣ **AI-Web3 Hackathons: Opportunities & Challenges**  
+### 4. **AI-Web3 Hackathons: Opportunities & Challenges**  
 **Speaker:** *Mahdieh Amiri*  
 
 - Overview of **ongoing AI-Web3 hackathons**  
 - How to **participate & win** in AI-blockchain competitions  
 - Success stories & lessons from **past hackathons**  
 
-### 5⃣ **Networking & Open Discussion ☕**  
+### 5. **Networking & Open Discussion ☕**  
 
 - Connecting with **AI & blockchain developers**  
 - Brainstorming **new AI-Web3 project ideas**  
@@ -74,13 +74,9 @@ Stay connected with **DeCaffeth Web3 builders**:
 - 💬 **[Telegram Group](https://t.me/+ZLX3NJEAHZYyNjc0)**  
 - 📱 **[Telegram](https://t.me/decaffeth)**  
 - 📱 **[Instagram](https://www.instagram.com/decaffeth)**  
-- 🔧 **[Twitter/X](https://x.com/decaffeth)**  
+- 🐦 **[Twitter/X](https://x.com/decaffeth)**  
 - 🏢 **[GitHub](https://github.com/decaffeth)**  
 
 ---
 
 🚀 **AI & Web3 are shaping the future—let’s build it together!**  
-
----
-
-This version improves structure, readability, and consistency. Let me know if you need further refinements! 🚀
