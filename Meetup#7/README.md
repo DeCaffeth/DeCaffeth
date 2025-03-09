@@ -46,7 +46,8 @@ This meetup brought together **blockchain researchers, developers, and Ethereum 
 <p align="center"> 
 <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo1.jpg" alt="Photo 1" width="300"/> 
 <img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo2.jpg" alt="Photo 2" width="300"/> 
-<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo3.jpg" alt="Photo 3" width="300"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo4.jpg" alt="Photo 4" width="300"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%237/meetup%237_photo3.jpg" alt="Photo 3" width="500"/> 
 </p>
 
 ---
