@@ -45,9 +45,9 @@ This meetup was crafted for **blockchain professionals, developers, and curious 
 
 ## 📷 Event Photos
 <p align="center"> 
-<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo1.jpg" alt="Photo 1" width="800"/> 
-<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo2.jpg" alt="Photo 2" width="200"/> 
-<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo3.jpg" alt="Photo 3" width="200"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo1.jpg" alt="Photo 1" width="600"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo2.jpg" alt="Photo 2" width="250"/> 
+<img src="https://github.com/DeCaffeth/DeCaffeth/blob/main/Meetup%239/meetup%239_photo3.jpg" alt="Photo 3" width="250"/> 
 </p>
 
 ---
